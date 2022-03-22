@@ -1,0 +1,11 @@
+{
+  "name": "blockchain-ethereum-template",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "elliptic": "^6.5.4",
+    "solc": "^0.8.13",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.7.1"
+  }
+}
